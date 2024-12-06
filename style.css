@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: "Sarabun", sans-serif;
+}
+
+.main-wrapper {
+    background-color: aqua;
+    height: 100vh;
+    background-image: 
+        linear-gradient( to bottom, #000, #0001, #000),
+        url('https://tinder.com/static/build/ac062d1b428513b9c13d11026d330e34.webp')
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    text-shadow: 4px 4px 2px rgba(246,82,255,0.6);
+}
